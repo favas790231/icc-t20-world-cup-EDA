@@ -10,7 +10,7 @@ An exploratory data analysis of ball-by-ball cricket data from the ICC Men's T20
 - **Dismissal Analysis:** Examination of the most frequently recorded dismissal types.
 - **Visualization:** Charts highlighting scoring patterns and batter performance throughout T20 innings.
 
-## 🔗 Quick Access
+## Project Resources
 
 -  **Jupyter Notebook:** [T20_World_Cup_EDA.ipynb](./T20_World_Cup_EDA.ipynb)
 -  **Dataset:** [ICC Men's T20 World Cup CSV Data](https://cricsheet.org/downloads/icc_mens_t20_world_cup_csv2.zip)
