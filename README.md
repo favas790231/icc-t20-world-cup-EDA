@@ -17,10 +17,5 @@ An exploratory data analysis examining ball-by-ball delivery event logs, phase-w
 - **Pandas** (Event-level aggregation, delivery classification, situational grouping)
 - **Matplotlib & Seaborn** (Phase progression velocity curves, scatter profiling, correlation matrices)
 
-## How to Run
-1. Open Google Colab or your local Jupyter Notebook environment.
-2. Open `T20_World_Cup_EDA.ipynb`.
-3. Run the cells sequentially. The dataset downloads automatically via the integrated direct URL in Cell 3.
-
 ## License
 This project utilizes public cricket telemetry data provided by [Cricsheet](https://cricsheet.org/), licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this work with appropriate attribution.
