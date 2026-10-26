@@ -16,7 +16,7 @@ An exploratory data analysis of ball-by-ball cricket data from the ICC Men's T20
 -  **Dataset:** [ICC Men's T20 World Cup CSV Data](https://cricsheet.org/downloads/icc_mens_t20_world_cup_csv2.zip)
 -  **Data Source:** [Cricsheet](https://cricsheet.org/)
 
-The notebook downloads the dataset directly from Cricsheet.
+The notebook downloads the dataset directly from Cricsheet
 
 ---
 
